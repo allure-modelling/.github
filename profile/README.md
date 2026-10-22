@@ -19,4 +19,8 @@ Allure Modelling is a separate product from [Allure Agency](https://allureagency
 
 ## Repositories
 
-This organization will hold Allure Modelling application code. Modeling work previously started on a branch inside the Agency backend will live here as its own project.
+| Repo | Role |
+|---|---|
+| [`portal`](https://github.com/allure-modelling/portal) | Laravel API + Filament admin (backend & dashboard) |
+
+Extracted from Agency `kifahmadyorg/allureagnecys_portal` branch `modelling` — Modelling work belongs here only.
